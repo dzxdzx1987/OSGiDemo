@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="456" localization="OSGI-INF/l10n/bundle" name="Model" project="com.example.e4.rcp.model" provider="EXAMPLE"/>
+	<bundle bundleID="457" localization="OSGI-INF/l10n/bundle" name="Service" project="com.example.e4.rcp.todo.service" provider="EXAMPLE"/>
+	<bundle bundleID="458" class="com.vogella.firstbundle.Activator" localization="OSGI-INF/l10n/bundle" name="Firstbundle" project="com.vogella.firstbundle" provider="VOGELLA"/>
+</map>
